@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadowsyn68
+- 👋 Hi, I’m @sariel
 - 👀 I’m interested in ... bug bounty hunting and other various cyber security projects
 - 🌱 I’m currently learning ... different cyber security skills through CDI College looking to practice and improve my skills
 - 💞️ I’m looking to collaborate on ...
